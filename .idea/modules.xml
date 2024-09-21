@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/session00-seft-study/DataType/DataType.iml" filepath="$PROJECT_DIR$/session00-seft-study/DataType/DataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session03-class/DogManagement/DogManagement.iml" filepath="$PROJECT_DIR$/session03-class/DogManagement/DogManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session03-class/DogManagementV2/DogManagementV2.iml" filepath="$PROJECT_DIR$/session03-class/DogManagementV2/DogManagementV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session04-assignment/Ex2.Class/Ex2.Class.iml" filepath="$PROJECT_DIR$/session04-assignment/Ex2.Class/Ex2.Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session04-assignment/Ex2.Class.2/Ex2.Class.2.iml" filepath="$PROJECT_DIR$/session04-assignment/Ex2.Class.2/Ex2.Class.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session04-assignment/Ex2.Class.3/Ex2.Class.3.iml" filepath="$PROJECT_DIR$/session04-assignment/Ex2.Class.3/Ex2.Class.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session02-language/GettingStartedMethods/GettingStartedMethods.iml" filepath="$PROJECT_DIR$/session02-language/GettingStartedMethods/GettingStartedMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session00-seft-study/Numbers/Numbers.iml" filepath="$PROJECT_DIR$/session00-seft-study/Numbers/Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PRO192.iml" filepath="$PROJECT_DIR$/.idea/PRO192.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session03-class/StudentManagement/StudentManagement.iml" filepath="$PROJECT_DIR$/session03-class/StudentManagement/StudentManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session02-language/VarNFunc/VarNFunc.iml" filepath="$PROJECT_DIR$/session02-language/VarNFunc/VarNFunc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session04-assignment/WorkShop1/WorkShop1.iml" filepath="$PROJECT_DIR$/session04-assignment/WorkShop1/WorkShop1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session01-hello/session01-hello.iml" filepath="$PROJECT_DIR$/session01-hello/session01-hello.iml" />
+    </modules>
+  </component>
+</project>
