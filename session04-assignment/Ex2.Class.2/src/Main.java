@@ -4,11 +4,11 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         //Lưu thông tin client
-        Client Client1 = new Client("HE204365999999", "LUU CHI KIEN", "037206005xx", 60_000, "0814659335");
-        Client Client2 = new Client("HE223432424243", "VU TRUONG VU", "0372067K7K6", 100_000_000_000l, "0832477790");
+        Client Client1 = new Client("HE204225999999", "LUU CHI KIEN", "037206055xx", 60_000, "0814659335");
+        Client Client2 = new Client("HE223432424243", "VU TRUONG VU", "0372067Kxxxx", 100_000_000_000l, "0832477790");
         Client Client3 = new Client("HE223432424263", "NGUYEN TIEN DAT", "0372067K7K6", 500_000_000_000l, "0832401770");
-        Client Client4 = new Client("HE223424545243", "TRAN TRUC QUYNH", "037206557K6", 700_000_000_000l, "0832401660");
-        Client Client5 = new Client("H4523434567543", "NGUYEN DUY BACH", "037206337K6", 100_000l, "0832401110");
+        Client Client4 = new Client("HE223424545243", "TRAN TRUC QUYNH", "0xxx206557K6", 700_000_000_000l, "0832401660");
+        Client Client5 = new Client("H4523434567543", "NGUYEN DUY BACH", "03xxx6337K6", 100_000l, "0832401110");
 
 
         System.out.println("Do you want withdraw money from your banking accout?");
